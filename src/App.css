@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.listMovie {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin: 1vw;
+}
+img {
+  height: 30vw;
+  width: 25vw;
+}
+.movieItem {
+  border: 1px solid black;
+  margin-right: 2px;
+}
